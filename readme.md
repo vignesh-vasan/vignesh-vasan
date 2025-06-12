@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Vignesh Vasan!<br>🚀 Beginner Full Stack Developer | 📊 Aspiring Data Analyst | 🤖 Python + AI Enthusiast<br><br>🔧 Passionate about building real-world projects and learning modern tech stacks to solve real problems.<br><br>🔭 Current Focus<br>🌐 Learning full stack development (React + FastAPI)<br><br>📈 Exploring data analytics with Python, Excel & Power BI<br><br>🧠 Working on AI-based projects like voice assistants & disease detection<br><br>☁️ Learning DevOps tools (Azure Pipelines, GitHub Actions, Maven)<br><br>
+👋 Hey, I’m Vignesh Vasan!<br>🚀 Beginner Full Stack Developer | 📊 Aspiring Data Analyst | 🤖 Python + AI Enthusiast<br>🔧 Passionate about building real-world projects and learning modern tech stacks to solve real problems.<br>🔭 Current Focus<br>🌐 Learning full stack development (React + FastAPI)<br>📈 Exploring data analytics with Python, Excel & Power BI<br>🧠 Working on AI-based projects like voice assistants & disease detection<br>☁️ Learning DevOps tools (Azure Pipelines, GitHub Actions, Maven)<br>
 
 
 ## 🌐 Socials:
