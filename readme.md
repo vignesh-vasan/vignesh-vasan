@@ -13,7 +13,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vignesh-vasan&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vignesh-vasan&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="320" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=vignesh-vasan&theme=dark&hide_border=false" width="350" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh-vasan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="300" />
 </div>
